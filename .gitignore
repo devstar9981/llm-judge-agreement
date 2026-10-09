@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+models/
+tools/
+data/raw/
+results/logs/
+*.log
+results/unfinished/
+data/sample.parquet
